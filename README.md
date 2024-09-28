@@ -1,1 +1,1 @@
-# PetFriends_Inventory
+# Pet Friends Inventory Microservice
